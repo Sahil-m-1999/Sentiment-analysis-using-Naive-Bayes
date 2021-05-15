@@ -1,1 +1,1 @@
-# Text-Classification-sentiment-analysis-using-Naive-Bayes
+# Sentiment-analysis-using-Naive-Bayes
